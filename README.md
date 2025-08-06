@@ -7,7 +7,7 @@
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
 
-# AgroCrypto AIaaS – Sovereign AI for the Agricultural World 🌾🤖
+# AgroCrypto AIaaS – AI for the Agricultural World 🌾🤖
 
 **AgroCrypto** is not just a blockchain. It’s a sovereign infrastructure that connects artificial intelligence, tokenized commodities, and secure financial protocols. As a division of AgroCrypto Labs, the **AIaaS Core** delivers machine learning services, decentralized compliance, and token validation across carbon, ESG, CPR, and MT103.
 
