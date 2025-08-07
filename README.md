@@ -11,7 +11,7 @@
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
-## A🌍 AgroNet Labs: Institutional Infrastructure for the Age of AI.
+## 🌍 AgroNet Labs: Institutional Infrastructure for the Age of AI. ##
 
 As the geopolitical order undergoes a tectonic shift, and the world demands truth, traceability, and technological sovereignty, **AgroNet Labs LLC** emerges — a technical-operational organism built around one non-negotiable mission:
 
