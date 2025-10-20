@@ -41,10 +41,10 @@
 
 ## 🌐 Connect
 
-- 🌐 [agrocrypto.xyz](https://agrocrypto.xyz)
-- 📄 [Whitepaper (EN/PT)](https://agrocrypto.xyz/whitepaper.pdf)
-- 💬 AI Support: [labs.agrocryptolabs.org/ai](https://labs.agrocryptolabs.org/ai)
-- 🔗 ATF Compliance Framework: [Available Soon]
+- 🌐 [agrocrypto.network](https://agrocrypto.network)
+- 📄 [Whitepaper (EN/PT)](https://agrocrypto.network.pdf)
+- 💬 AI Support: [agronet.ai](https://agronet.ai)
+- 🔗 ATF Compliance Framework: [agronetlabs/atf-ai]
 
 ---
 
